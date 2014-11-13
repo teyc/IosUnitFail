@@ -5,8 +5,6 @@ namespace IosUnitFail
 {
     public interface IRepository<T>
     {
-        T GetValue();
-
         void GetExpression(Expression expr);
     }
 }
