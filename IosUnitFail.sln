@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IosUnitFail", "IosUnitFail\IosUnitFail.csproj", "{06BB43D7-B481-4DDC-BF22-1B2472674F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IosUnitFail.Test", "IosUnitFail.Test\IosUnitFail.Test.csproj", "{8FBFCDDC-640D-46F3-99DE-D7EF2E995543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BB43D7-B481-4DDC-BF22-1B2472674F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BB43D7-B481-4DDC-BF22-1B2472674F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BB43D7-B481-4DDC-BF22-1B2472674F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BB43D7-B481-4DDC-BF22-1B2472674F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBFCDDC-640D-46F3-99DE-D7EF2E995543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBFCDDC-640D-46F3-99DE-D7EF2E995543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBFCDDC-640D-46F3-99DE-D7EF2E995543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBFCDDC-640D-46F3-99DE-D7EF2E995543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = IosUnitFail\IosUnitFail.csproj
+	EndGlobalSection
+EndGlobal
